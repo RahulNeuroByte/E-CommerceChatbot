@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+langchain-astradb
+datasets
+pypdf
+python-dotenv
+flask
+requests
+transformers
+huggingface_hub
+-e .

@@ -1,0 +1,15 @@
+Metadata-Version: 2.2
+Name: Ecommercebot
+Version: 0.0.1
+Author: Shaurab
+Author-email: shaurbaio@gmail.com
+Requires-Dist: langchain-astradb
+Requires-Dist: langchain
+Requires-Dist: langchain-google-genai
+Requires-Dist: datasets
+Requires-Dist: pypdf
+Requires-Dist: python-dotenv
+Requires-Dist: flask
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

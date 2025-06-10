@@ -1,0 +1,26 @@
+Metadata-Version: 2.4
+Name: ecommbot
+Version: 0.0.1
+Summary: E-commerce chatbot using LangChain, AstraDB, and Mistral 7B via Hugging Face.
+Author: Shaurab
+Author-email: shaurbaio@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Requires-Dist: langchain
+Requires-Dist: langchain-core
+Requires-Dist: langchain-community
+Requires-Dist: langchain-astradb
+Requires-Dist: datasets
+Requires-Dist: pypdf
+Requires-Dist: python-dotenv
+Requires-Dist: flask
+Requires-Dist: requests
+Requires-Dist: transformers
+Requires-Dist: huggingface_hub
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

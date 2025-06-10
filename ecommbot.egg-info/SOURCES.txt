@@ -1,0 +1,10 @@
+setup.py
+ecommbot/__init__.py
+ecommbot/data_converter.py
+ecommbot/ingest.py
+ecommbot/retrieval_generation.py
+ecommbot.egg-info/PKG-INFO
+ecommbot.egg-info/SOURCES.txt
+ecommbot.egg-info/dependency_links.txt
+ecommbot.egg-info/requires.txt
+ecommbot.egg-info/top_level.txt
